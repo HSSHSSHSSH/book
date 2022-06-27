@@ -1,0 +1,3 @@
+[submodule "b1/free-programming-books-zh_CN"]
+	path = b1/free-programming-books-zh_CN
+	url = https://github.com/justjavac/free-programming-books-zh_CN.git
